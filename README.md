@@ -1,4 +1,4 @@
-# [Cook web](https://recetassimples.app/) 1.0
+# [Cook web](https://cook-web-weathered-thunder-7639.fly.dev/) 1.0
 
 [![es](https://img.shields.io/badge/lang-es-red)](https://github.com/lezojeda/cook-web/blob/master/README.es.md)
 
