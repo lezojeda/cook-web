@@ -1,8 +1,8 @@
 # [Cook web](https://recetassimples.app/) 1.0
 
-[![es](https://img.shields.io/badge/lang-es-red)](https://github.com/luz-ojeda/cook-web/blob/master/README.es.md)
+[![es](https://img.shields.io/badge/lang-es-red)](https://github.com/lezojeda/cook-web/blob/master/README.es.md)
 
-Svelte web application that lets users manage and retrieve cooking recipes. Uses [cook-api](https://github.com/luz-ojeda/cook-api) as the backend.
+Svelte web application that lets users manage and retrieve cooking recipes. Uses [cook-api](https://github.com/lezojeda/cook-api) as the backend.
 
 A deployed version of the full stack web application can be found [here](https://cook-web-weathered-thunder-7639.fly.dev/).
 
