@@ -1,8 +1,8 @@
 # Cook web
 
-[![en](https://img.shields.io/badge/lang-en-blue)](https://github.com/luz-ojeda/cook-web/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue)](https://github.com/lezojeda/cook-web/blob/master/README.md)
 
-Aplicación web en Svelte que permite a los usuarios gestionar y recuperar recetas de cocina. Utiliza [cook-api](https://github.com/luz-ojeda/cook-api) como backend.
+Aplicación web en Svelte que permite a los usuarios gestionar y recuperar recetas de cocina. Utiliza [cook-api](https://github.com/lezojeda/cook-api) como backend.
 
 Puede encontrar una versión deployada de la aplicación web completa [aquí](https://cook-web-weathered-thunder-7639.fly.dev/).
 
@@ -24,7 +24,7 @@ Puede encontrar una versión deployada de la aplicación web completa [aquí](ht
 1. Clona el repositorio
 
    ```bash
-   git clone https://github.com/luz-ojeda/cook-web.git
+   git clone https://github.com/lezojeda/cook-web.git
 
    ```
 2. Navegue hasta el directorio raíz del proyecto
