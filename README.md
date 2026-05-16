@@ -28,7 +28,7 @@ Once you've created a project and installed dependencies with `npm install` (or 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/luz-ojeda/cook-web.git
+   git clone https://github.com/lezojeda/cook-web.git
 
    ```
 2. Navigate to the project's root directory
